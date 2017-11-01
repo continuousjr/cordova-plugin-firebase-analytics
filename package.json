@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chemerisuk/cordova-plugin-firebase-analytics.git"
+    "url": "git+https://github.com/continuousjr/cordova-plugin-firebase-analytics.git"
   },
   "author": "Maksim Chemerisuk <chemerisuk@gmail.com> (https://github.com/chemerisuk)",
   "license": "MIT",
